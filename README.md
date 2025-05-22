@@ -132,7 +132,3 @@ Aşağıda uygulamanın çeşitli özelliklerini gösteren ekran görüntüleri 
 Bu sistem, gümüş ve takı sektöründeki işletmelerin envanter yönetimi, ürün takibi, tamirat süreçleri ve satış analizleri gibi operasyonel ihtiyaçlarını dijital ortamda verimli bir şekilde yönetmelerini sağlamak amacıyla geliştirilmiştir. Kullanıcı dostu arayüzü ve kapsamlı özellikleriyle işletmelerin zaman kazanmasına ve iş süreçlerini optimize etmesine yardımcı olmayı hedefler.
 
 (This system was developed to enable businesses in the silver and jewelry sector to efficiently manage their operational needs such as inventory management, product tracking, repair processes, and sales analysis in a digital environment. With its user-friendly interface and comprehensive features, it aims to help businesses save time and optimize their business processes.)
-
----
-*(İsteğe bağlı: İletişim bilgilerinizi veya GitHub profilinize bir bağlantı ekleyebilirsiniz.)*
-*(Optional: You can add your contact information or a link to your GitHub profile.)*
